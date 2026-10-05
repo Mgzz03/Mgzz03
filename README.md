@@ -12,6 +12,7 @@ I build tools that connect engineering data with practical workflows, from aeria
 | [ChefOS](https://github.com/Mgzz03/chefos) | Kitchen operations, recipes, inventory, costing, and events | React, FastAPI, SQLAlchemy, Tauri |
 | [Academic Guide](https://github.com/Mgzz03/Academic-Guide) | Academic advising, course planning, and transcript workflows | C#, ASP.NET Core Razor Pages, SQL Server |
 | [Embedded Systems Labs](https://github.com/Mgzz03/ES_Course_Labs) | Layered peripheral drivers and hardware exercises | C, GPIO, ADC, PWM, UART, SPI, I2C |
+| [VMO Home Monitoring Robot](https://github.com/Mgzz03/CIE349-VMO-Robot) | Embedded robot controls and environmental sensing (private repository) | PIC16F877A, ESP32, FreeRTOS, ROS 2, KiCad |
 
 ## AeroMap
 

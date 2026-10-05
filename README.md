@@ -30,12 +30,6 @@ These repositories hold imagery and supporting files for mapping experiments. Th
 - [Helenenschacht imagery](https://github.com/Mgzz03/odm_data_helenenschacht)
 - [Sheffield Cross imagery](https://github.com/Mgzz03/drone_dataset_sheffield_cross)
 
-## Other Repositories
-
-- [Chef](https://github.com/Mgzz03/Chef): minimal repository; see ChefOS for the documented application.
-- [Intelligent Chef](https://github.com/Mgzz03/intelligent_chef): repository awaiting project files.
-- [Image Processing](https://github.com/Mgzz03/Image-Processing-): repository awaiting project files.
-- [Helnehen Images](https://github.com/Mgzz03/Helnehen_Images): repository awaiting dataset files.
 
 ## Contact
 

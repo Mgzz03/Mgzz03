@@ -17,8 +17,8 @@ I build tools that connect engineering data with practical workflows, from aeria
 | [Network Design Project](https://github.com/Mgzz03/network-design-project) | Cisco Packet Tracer hotel network topology and saved simulations | Packet Tracer, networking |
 | [Voice RAG Engineering Assistant](https://github.com/Mgzz03/voice-rag-engineering-assistant) | Voice-enabled document retrieval assistant for engineering information | Python, React, RAG, speech |
 | [Data Structures Road Network](https://github.com/Mgzz03/data-structures-road-network) | Road network model using custom queues, lists, priority queues, and scheduling | C++, data structures, algorithms |
-| [CIE202 Paint Editor](https://github.com/Mgzz03/cie202-paint-editor) | Interactive graphics editor with drawing, transformations, file operations, and undo/redo | C++, computer graphics |
-| [CIE202 Trading Simulator](https://github.com/Mgzz03/cie202-trading-simulator) | Event-driven market, orders, portfolios, wallets, brokers, and backtesting | C++, simulation, backtesting |
+| [Paint Editor](https://github.com/Mgzz03/paint-editor) | Interactive graphics editor with drawing, transformations, file operations, and undo/redo | C++, computer graphics |
+| [Trading Simulator](https://github.com/Mgzz03/trading-simulator) | Event-driven market, orders, portfolios, wallets, brokers, and backtesting | C++, simulation, backtesting |
 
 ## AeroMap
 
